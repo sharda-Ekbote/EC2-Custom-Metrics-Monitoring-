@@ -5,7 +5,7 @@
 
 Leveraging my background in supporting Stock Exchange and News production servers, I have built a robust monitoring stack that ensures 360-degree visibility into instance health.
 🛠️ Tech Stack
-** Cloud: AWS (EC2, CloudWatch, SNS, IAM)
-** Systems: Linux (Amazon Linux 2 / Ubuntu)
-** Automation: Shell Scripting / JSON Configuration
-** Monitoring: CloudWatch Agent
+- ** Cloud: AWS (EC2, CloudWatch, SNS, IAM)
+- ** Systems: Linux (Amazon Linux 2 / Ubuntu)
+- ** Automation: Shell Scripting / JSON Configuration
+- ** Monitoring: CloudWatch Agent
